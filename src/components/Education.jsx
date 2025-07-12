@@ -13,7 +13,7 @@ const EducationPage = () => {
       <motion.p className="mt-10 text-3xl font-semibold text-white" variants={fadeIn("left", "spring", 0.4, 0.75)}>National University of Singapore</motion.p>
       <motion.div className="mt-2 text-secondary text-lg italic flex flex-col md:flex-row font-medium" variants={fadeIn("left", "spring", 0.5, 0.75)}>
         <p className="grow">Bachelor of Computing in Information System (Hons)</p>
-        <p className=" not-italic">Aug 2021 - Present</p>
+        <p className=" not-italic">Aug 2021 - May 2025</p>
       </motion.div>
       <motion.ul className="mt-1 list-disc text-gray-200 ml-12" variants={fadeIn("left", "spring", 0.5, 0.75)}>
         <li>
